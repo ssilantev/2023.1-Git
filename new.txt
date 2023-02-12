@@ -1,3 +1,4 @@
 edit text locally #1
 edit text locally #2
 edit text locally #3
+Local changes in 'develop' are confirmed on GitHub.
